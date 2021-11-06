@@ -1,0 +1,40 @@
+.hor{
+          content: "";
+                    display:inline-flex ;
+                    clear: both;
+                    margin-left:90px;
+        }
+        .card2 {
+          padding: 40px;
+          
+          background: #fff;
+          max-width: 560px;
+          max-height: 690px;
+          border-radius: 20px;
+          margin-top: 80px;
+          margin-left: 20px;
+          justify-content:space-between;
+        }
+        .shadow3 { 
+          box-shadow: 0 7px 30px -10px rgba(150,170,180,0.5);
+        }
+        
+        .title{
+                  margin-top:0px;
+        }
+.image{
+          height:400px;
+          width: 200px;
+          /* fixed-width:2800px; */
+}
+.product{
+          margin-top:10px;
+          width:250px;
+}
+.b1{
+  width:110px;
+  background: #338BFF;
+  height:36px;
+  border-radius:6px;
+  /* margin-bottom: 50px; */
+}
