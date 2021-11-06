@@ -9,7 +9,7 @@ function App() {
      <BrowserRouter>
     
       <Routes>
-        
+          // Route
         <Route path='/home' element={<Home />}  />
         <Route path='/' element={<Home />} />
         <Route path={`/product/${id}`} element={<Item />} />
